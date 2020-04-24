@@ -2,6 +2,8 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
+deploy_default = "s3sync"
+
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "ubuntu@throughthe50.com"
@@ -9,7 +11,10 @@ ssh_port       = "22"
 document_root  = "/var/www/html"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+
+
+## -- Rsync Deploy config -- ##
+s3_bucket      = "throughthe50.com"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -246,6 +251,13 @@ task :rsync do
   end
   puts "## Deploying website via Rsync"
   ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{rsync_args} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
+end
+
+desc "Deploy website to s3 using s3cmd sync"
+task :s3sync do
+  #s3cmd sync -v /path/to/folder/ s3://s3-bucket/folder/ > s3_backup.log 2>&1 &
+  puts "## Deploying website to S3 Bucket"
+  ok_failed system("s3cmd sync -v -r #{public_dir}/. s3://#{s3_bucket} > s3_backup.log 2>&1 &")
 end
 
 desc "deploy public directory to github pages"
