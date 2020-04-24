@@ -14,7 +14,7 @@ rsync_args     = ""  # Any extra arguments to pass to rsync
 
 
 ## -- Rsync Deploy config -- ##
-s3_bucket      = "throughthe50.com"
+s3_bucket      = "www.throughthe50.com"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
