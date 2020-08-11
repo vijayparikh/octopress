@@ -15,4 +15,4 @@ Award-winning photographer [Farn](https://www.instagram.com/farnsharkieboy/) sha
 >
 > just get gear that suits you and de-stress
 
-Hard earned wisdom of a working pro - that a lot of us should heed.
+Hard earned wisdom from an award winning working pro - wisdom that a lot of us should heed.
