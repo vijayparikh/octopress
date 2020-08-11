@@ -1,0 +1,19 @@
+---
+layout: post
+title: "50mm as 'Normal'"
+date: 2020-08-11 05:47:38 -0400
+comments: true
+categories:
+---
+
+{% img /assets/images/50mm-normal.jpg %}
+
+Ever wonder why the 50mm lens is so pervasive in photography? Why it is called the normal lens? After all, many photographers prefer the 28mm or the 35mm. In fact, it can be argued that the 28mm lens is the new normal as the iPhone uses this focal length (in terms of 35mm photography) as its only focal length.
+
+Allain Daigle presents an excellent [article in The Atlantic](https://www.theatlantic.com/technology/archive/2018/05/how-the-50-mm-lens-became-normal/560276/) of how everyone's', okay at least my, favorite focal length came to be regarded as the 'normal'.  
+
+{% blockquote Allain Daigle https://www.theatlantic.com/technology/archive/2018/05/how-the-50-mm-lens-became-normal/560276/ How the 50-mm Lens Became ‘Normal’ %}
+For 35-mm motion-picture production, a 25-mm lens was an effective approximation of the focal length necessary to fill the diagonal dimensions of the 35-mm celluloid frame, as it was used in a cinema camera.* Some still-photography conventions were adapted from these motion-picture standards. Oskar Barnack, who left Zeiss for the optical company Leitz in 1911, began experimenting with an apparatus for testing the motion-picture film stock and lenses. Barnack wanted to make a “Lilliput camera” that would be lighter and easier to travel with than the heavy photographic cameras of the time. Around 1912 or 1913, Barnack adapted this instrument into a prototype 35-mm photography camera, the Ur-Leica. Eventually, the Ur-Leica became the Leica I 35-mm camera which, after its release in 1925, quickly became a popular camera with professionals and amateurs alike, including Cartier-Bresson.
+
+The still camera used 35-mm film, but oriented it differently than a film camera, such that it exposed about twice the space on the negative for a single shot. The 25mm cinema lens standard became a 50-mm normal lens for photography, because it was a reliable lens for completely and sharply filling the frame of a 35-mm photographic negative. The Leica I came with a fixed, nonremovable 50-mm lens, and while the 1932 Leica II introduced interchangeable lenses, its built-in viewfinder was specifically designed to work with a 50-mm lens. Zoom lenses became standard for SLR cameras in the 1960s and 1970s, but popular consumer cameras like the Pentax K1000 and the Canon AE-1 continued to be advertised and bundled together with a 50-mm. A 50-mm ensured that users, especially amateur and first-time photographers, could capture sharp photos of their normal lives in the widest range of conditions without needing a great deal of technical knowledge.
+{% endblockquote %}
