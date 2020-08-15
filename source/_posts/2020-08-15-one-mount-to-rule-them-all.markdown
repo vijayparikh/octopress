@@ -46,7 +46,7 @@ Nikon did it right - they spent the time to throw away the old and re-engineer f
 </br>
 Okay it is mostly market speak - but the gist is that it will allow Nikon to design a new set of lenses with outstanding performance. The proof is their [50mm f1.8s](https://amzn.to/2E2QvxU) lens.  Arguably the [best mass market 50mm lens in the market](https://www.youtube.com/watch?v=coi19ptZF7Q&t=206s).
 
-The real advantage of that short focal distance and giant throat opening is that Nikon Z mount can adapt ***any lens on the market***.  Most of all the mounts are already supported, with full autofocus capability.
+The real advantage of that short focal distance and giant throat opening is that Nikon Z mount can adapt ***any lens on the market***.  All of the major full frame mounts are already supported, with full autofocus capability.
 
 Here is a break down so far:
 
