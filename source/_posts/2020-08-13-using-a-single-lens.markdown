@@ -11,6 +11,6 @@ There are many benefits to embracing minimal photography by using a one lens, on
 
 <div class="video-youtube">
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h2kEqre0rSY?start=498" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2kEqre0rSY?start=567" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 </div>
