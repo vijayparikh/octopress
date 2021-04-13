@@ -6,7 +6,8 @@ group :development do
   gem 'octopress-hooks', '~> 2.2'
   gem 'octopress-date-format', '~> 2.0'
   gem 'jekyll-sitemap'
-  gem 'rdiscount', '~> 2.0'
+  # might have to run sudo gem install rdiscount -v '2.2.0.1'  -- --with-cflags="-Wno-error=implicit-function-declaration"
+  gem 'rdiscount', '~> 2.2.0.1'
   gem 'RedCloth', '~> 4.2.9'
   gem 'haml', '~> 4.0'
   gem 'compass', '~> 1.0.1'
